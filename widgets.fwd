@@ -1,0 +1,25 @@
+{
+  "name": "rex-widgets",
+  "title": "rex-widgets",
+  "description": "聚合实时榜单原版 + 荐片兜底播放源",
+  "widgets": [
+    {
+      "id": "forward_rank",
+      "title": "聚合实时榜单",
+      "description": "聚合各平台实时榜单数据, 内置瓜子影视播放源",
+      "requiredVersion": "0.0.1",
+      "version": "1.4.4",
+      "author": "ZenmoFeiShi",
+      "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Forward/main/forward_rank.js"
+    },
+    {
+      "id": "muse.jianpian.fallback",
+      "title": "荐片兜底播放源",
+      "description": "聚合实时榜单兜底: 瓜子无源时按片名从荐片取线路, 仅精确匹配",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Muse",
+      "url": "https://raw.githubusercontent.com/steam-100/rex-widgets/main/jianpian-fallback.js"
+    }
+  ]
+}
