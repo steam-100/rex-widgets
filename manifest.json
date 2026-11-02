@@ -1,0 +1,27 @@
+{
+  "title": "rex-widgets",
+  "description": "聚合实时榜单原版 + 荐片兜底播放源",
+  "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "widgets": [
+    {
+      "id": "https://t.me/Nzmgs?rev=20260726b",
+      "title": "聚合实时榜单",
+      "description": "聚合各平台实时榜单数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.4.4",
+      "author": "TG@ZenMoFiShi",
+      "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Forward/main/forward_rank.js"
+    },
+    {
+      "id": "muse.jianpian.fallback",
+      "title": "荐片兜底播放源",
+      "description": "聚合实时榜单兜底: 瓜子无源时按片名从荐片取线路, 仅精确匹配",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Muse",
+      "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "url": "https://raw.githubusercontent.com/steam-100/rex-widgets/main/jianpian-fallback.js"
+    }
+  ]
+}
