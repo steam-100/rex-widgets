@@ -6,7 +6,7 @@
   "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
   "widgets": [
     {
-      "id": "forward.forwardrank",
+      "id": "https://t.me/Nzmgs?rev=20260726b",
       "title": "聚合实时榜单",
       "description": "聚合各平台实时榜单数据",
       "requiredVersion": "0.0.1",
