@@ -14,8 +14,11 @@ var WidgetMetadata = {
   title: "荐片兜底播放源",
   description: "聚合实时榜单兜底: 瓜子无源时按片名从荐片取线路, 仅精确匹配",
   author: "Muse",
-  version: "1.0.0",
+  site: "https://github.com/steam-100/rex-widgets",
+  icon: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  version: "1.0.1",
   requiredVersion: "0.0.1",
+  detailCacheDuration: 60,
   modules: [
     {
       id: "loadResource",
